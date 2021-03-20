@@ -4,7 +4,8 @@ This is an introduction of color point cloud dataset with G-PCC/V-PCC coding and
 There are 10 reference point clouds, including ‘soldier’, ‘redandblack’, ‘queen’, ‘loot’, ‘longdress’, ‘andrew’, ‘david’, ‘ricardo’, ‘sarah’ and ‘phil’.  The order of distorted Point cloud sequences is also like this.
 (‘Egyptian_mask’ point cloud is used as a demo session to familiarize each subject with the goal of subjective test and distortion types in our subjective experiment).  
 Each reference point cloud was processed by the latest PC coding schemes (i.e., MPEG G-PCC and V-PCC) and Gaussian noise, corresponding to 36 distorted point clouds. So a total 360 distorted point clouds in CPCD2.0 database.  
-Distorted PCs were evaluated by people through a subjective test with a five-grade quality scale. MOS value for all database is also provided.  
+Distorted PCs were evaluated by people through a subjective test with a five-grade quality scale. MOS value for all database is also provided. 
+If you need the MOS values of all distorted PCs, please contact with us (email address: hezhouyan@nbu.edu.cn).
 Please cite the following paper if you are using this database.  
 Z. He, G. Jiang, M. Yu, Z. Jiang, Z. Peng, F. Chen, "TGP-PCQA: Texture and Geometry Projection Based Quality Assessment for Colored Point Clouds", Submitted to J. Vis. Commun. Image Represent., 2020,  
 More details can be found in the paper (will be updated soon)  
